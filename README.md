@@ -42,7 +42,7 @@ Almanac is a Django based To-Do-App  where you can add the tasks you have to do 
 
 ![EditDelete](https://user-images.githubusercontent.com/60173032/117722140-558c4e00-b1fe-11eb-8aae-25a62fdc523e.jpg)
 
-***You can run Almanac at ***
+***You can run Almanac at***
 
 
 
