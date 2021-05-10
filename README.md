@@ -22,11 +22,27 @@ Almanac is a Django based To-Do-App  where you can add the tasks you have to do 
 ***8. Finally Run The Project:*** python manage.py runserver (To run the project on server) </br>
  
 # Basic Features
-● ***Add Task:*** You can add the task to do as task title along with task description and task priority level. 
+● ***Add Task:*** You can add the task to do as task title along with task description and task priority level.
+
 ![Add Task](https://user-images.githubusercontent.com/60173032/117720845-c92d5b80-b1fc-11eb-94ce-9dac0e55fe7a.jpg)
 
-● ***List All Tasks:*** You can list all the tasks you have been added. Two tasks will be shown on one page and you can navigate between the pages. 
-![List Tasks](https://user-images.githubusercontent.com/60173032/117721186-2c1ef280-b1fd-11eb-9ae4-f5744c95880d.jpg)
+● ***List All Tasks:*** All the tasks that you have added will be displayed. Two tasks will be shown on one page and you can navigate between the pages.!
+
+![List Tasks](https://user-images.githubusercontent.com/60173032/117721409-71dbbb00-b1fd-11eb-8009-b591107d5a9d.jpg)
+
+● ***Sort by Priority level:*** You can list all the tasks you have been added will be displayed sorted by priority level of the task. Two tasks will be shown on one page and you can navigate between the pages.
+
+![Sort By Priority Level](https://user-images.githubusercontent.com/60173032/117721799-eca4d600-b1fd-11eb-89bf-bf6d9337e6fe.jpg)
+
+● ***Search by title:*** You can search any task in the task list by its title.
+
+![Search](https://user-images.githubusercontent.com/60173032/117721894-0d6d2b80-b1fe-11eb-82ed-4cb304260b0d.jpg)
+
+● ***Edit/Delete Task:*** You can delete an exiting task or make changes in an existing task as per your wish.
+
+![EditDelete](https://user-images.githubusercontent.com/60173032/117722140-558c4e00-b1fe-11eb-8aae-25a62fdc523e.jpg)
+
+
 
 
 
