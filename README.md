@@ -26,7 +26,7 @@ Almanac is a Django based To-Do-App  where you can add the tasks you have to do 
 
 ![Add Task](https://user-images.githubusercontent.com/60173032/117720845-c92d5b80-b1fc-11eb-94ce-9dac0e55fe7a.jpg)
 
-● ***List All Tasks:*** All the tasks that you have added will be displayed. Two tasks will be shown on one page and you can navigate between the pages.!
+● ***List All Tasks:*** All the tasks that you have added will be displayed. Two tasks will be shown on one page and you can navigate between the pages.
 
 ![List Tasks](https://user-images.githubusercontent.com/60173032/117721409-71dbbb00-b1fd-11eb-8009-b591107d5a9d.jpg)
 
@@ -42,7 +42,7 @@ Almanac is a Django based To-Do-App  where you can add the tasks you have to do 
 
 ![EditDelete](https://user-images.githubusercontent.com/60173032/117722140-558c4e00-b1fe-11eb-8aae-25a62fdc523e.jpg)
 
-
+***You can run Almanac at ***
 
 
 
